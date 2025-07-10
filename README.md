@@ -1,4 +1,4 @@
-# Market-Basket-Analysis
+# Market Basket Analysis on Bakery Dataset
 This repository contains resources for a Market Basket Analysis project utilizing the Apriori Algorithm. The analysis is based on an open-source [Bakery dataset](https://www.kaggle.com/datasets/akashdeepkuila/bakery/data) available on Kaggle. Association rule mining is employed to identify patterns and relationships between items that are frequently purchased together. These insights can be leveraged to enhance targeted marketing strategies, improve product placement, and optimize inventory management.
 
 # Objective
